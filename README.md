@@ -1,3 +1,5 @@
+![Logo](images/logo.png)
+
 # Python Data Science - Session 2
 
 This repository contains exercises for Python Data Science Session 2. Each exercise is implemented in its own branch for better organization and version control.
