@@ -56,4 +56,4 @@ Python-Data-Science-Session2/
 
 ├── README.md
 
-└── requirements.txt
+└── images
