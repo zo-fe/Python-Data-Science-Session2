@@ -16,31 +16,42 @@ Prerequisites
 - Git installed for version control.
 
 Clone the Repository
+
 To clone the repository, run the following command in your terminal:
 git clone https://github.com/zo-fe/Python-Data-Science-Session2.git
 
 Switching to an Exercise Branch
+
 After cloning the repository, switch to the desired exercise branch:
 cd Python-Data-Science-Session2
 git checkout <branch-name>
 
 Replace <branch-name> with one of the following:
+
 fizzbuzz-exercise
 basic-data-filtering-exercise
 todo-list-exercise
 temperature-converter-exercise
 
 Running the Code
+
 To run the code for each exercise, navigate to the appropriate branch and use the following command:
 python <file-name>.py
 For example, to run the FizzBuzz exercise:
 python fizzbuzz.py
 
 Project Structure
+
 Python-Data-Science-Session2/
+
 ├── fizzbuzz.py
+
 ├── data_filtering.py
+
 ├── todo_list.py
+
 ├── temperature_converter.py
+
 ├── README.md
+
 └── requirements.txt
